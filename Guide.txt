@@ -1,0 +1,13 @@
+First download all the files present in the repository
+Open:-  http://localhost/phpmyadmin/
+Create new database by clicking 'new' option under recent and favorites
+Name it phptuts
+Create 3 rows namely
+1-> uid and varchar 5
+2-> username and varchar 50
+3-> password and varchar 10
+press save.
+Now save this in folder of name of your choice and save it in htdocs folder in xampp folder in your local disk c:
+Now type in your browser:- localhost/folder_name/signup.php
+Note:
+folder_name is the folder in which these files are downloaded
